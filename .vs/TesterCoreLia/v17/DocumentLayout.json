@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\source\\repos\\TesterCoreLia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60E5FF39-03B4-419C-975D-49F2D8829E5B}|..\\TesterXunitLia\\TesterXunitLia.csproj|c:\\users\\aluno noite\\source\\repos\\testerxunitlia\\operacoestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperacoesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\source\\repos\\TesterXunitLia\\OperacoesTests.cs",
+              "RelativeDocumentMoniker": "..\\TesterXunitLia\\OperacoesTests.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\source\\repos\\TesterXunitLia\\OperacoesTests.cs",
+              "RelativeToolTip": "..\\TesterXunitLia\\OperacoesTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:43:55.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
